@@ -65,7 +65,7 @@ a {
 }
 .btn:hover,
 .btn:focus {
-  color: #404bbf;
+  background-color: #404bbf;
 }
 
 .feature-subtitle {
