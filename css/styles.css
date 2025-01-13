@@ -63,6 +63,10 @@ a {
   background: #4d5ae5;
   color: #ffffff;
 }
+.btn:hover,
+.btn:focus {
+  color: #404bbf;
+}
 
 .feature-subtitle {
   color: #2e2f42;
