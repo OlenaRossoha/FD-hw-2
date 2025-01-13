@@ -55,12 +55,13 @@ a {
   text-align: center;
 }
 .btn {
-  background: #4d5ae5;
-  color: #ffffff;
+  font-family: "Roboto", sans-serif;
   font-size: 16px;
   font-weight: 500;
   line-height: 1.5;
   letter-spacing: 0.04em;
+  background: #4d5ae5;
+  color: #ffffff;
 }
 
 .feature-subtitle {
