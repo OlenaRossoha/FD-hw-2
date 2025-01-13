@@ -103,13 +103,13 @@ a {
   letter-spacing: 0.02em;
 }
 .project {
-  color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
   line-height: 1.1;
-  letter-spacing: 0.02em%;
+  letter-spacing: 0.02em;
   text-align: center;
   text-transform: capitalize;
+  color: #2e2f42;
 }
 .project-subtitle {
   color: #2e2f42;
