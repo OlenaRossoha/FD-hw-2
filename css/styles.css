@@ -1,4 +1,4 @@
-.body {
+body {
   font-family: "Roboto", sans-serif;
   color: #434455;
   background-color: #ffffff;
@@ -122,6 +122,6 @@ a {
   line-height: 1.5px;
   letter-spacing: 0.02em;
 }
-.footer {
+footer {
   background: #2e2f42;
 }
