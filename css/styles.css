@@ -31,7 +31,11 @@ a {
 .heder-menu-link:active {
   color: #404bbf;
 }
-.heder-menu-link:hover {
+.heder-menu-link:hover,
+.heder-menu-link:focus {
+  color: #404bbf;
+}
+.heder-menu-link:focus {
   color: #404bbf;
 }
 .contacts-link {
@@ -40,7 +44,7 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.ddress {
+.address {
   font-style: normal;
 }
 .hero {
