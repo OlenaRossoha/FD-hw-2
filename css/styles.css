@@ -38,8 +38,8 @@ a {
 .heder-menu .link:focus {
   color: #404bbf;
 }
-.address-menu .contacts-link:hover,
-.address-menu .contacts-link:focus {
+.address-menu .link:hover,
+.address-menu .link:focus {
   color: #404bbf;
 }
 .contacts-link {
