@@ -29,9 +29,13 @@ a {
   letter-spacing: 0.02em;
 }
 
-.heder-menu .list:active,
-.heder-menu .list:hover,
-.heder-menu .list:focus {
+.heder-menu .link:active {
+  color: #404bbf;
+}
+.heder-menu .link:hover {
+  color: #404bbf;
+}
+.heder-menu .link:focus {
   color: #404bbf;
 }
 
