@@ -29,9 +29,9 @@ a {
   letter-spacing: 0.02em;
 }
 
-.heder-menu-item:active,
-.heder-menu-item:hover,
-.heder-menu-item:focus {
+.heder-menu-list:active,
+.heder-menu-list:hover,
+.heder-menu-list:focus {
   color: #404bbf;
 }
 
