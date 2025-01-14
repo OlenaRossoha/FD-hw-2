@@ -28,16 +28,13 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
 }
-.heder-menu-link:active {
+
+.heder-menu-item:active,
+.heder-menu-item:hover,
+.heder-menu-item:focus {
   color: #404bbf;
 }
-.heder-menu-link:hover,
-.heder-menu-link:focus {
-  color: #404bbf;
-}
-.heder-menu-link:focus {
-  color: #404bbf;
-}
+
 .contacts-link {
   color: #434455;
   font-size: 16px;
